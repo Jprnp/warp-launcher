@@ -1,0 +1,19 @@
+{
+  "required_api_version": "2",
+  "name": "Warp Launcher",
+  "description": "Open warp using a launch configuration",
+  "developer_name": "João Pedro Pinheiro",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "warp",
+      "type": "keyword",
+      "name": "Warp",
+      "description": "Warp Launcher Extension",
+      "default_value": "wp"
+    }
+  ]
+}
