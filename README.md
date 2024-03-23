@@ -7,5 +7,5 @@ Ulauncher extension thant enables opening Warp with specific launch configuratio
 - [xdotool](https://github.com/jordansissel/xdotool)
 
 ## WORK IN PROGRESS:
-[ ] Configurable hotkey for launch configurations panel 
-[ ] Configurable launch configs path
+- [ ] Configurable hotkey for launch configurations panel 
+- [ ] Configurable launch configs path
